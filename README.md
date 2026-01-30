@@ -69,21 +69,11 @@ Our system consists of three specialized AI agents:
 
 ## ✨ Key Features
 
-### 🔄 Real-Time Traffic Analysis
-- Processes live traffic data from multiple sources (Google Maps, TomTom)
-- Updates every 5 minutes with current traffic conditions
-- Monitors vehicle speed, count, and road occupancy
-
 ### 📊 Predictive Analytics
 - **85-90% accuracy** for short-term traffic predictions (2-4 hours)
 - Time-series forecasting using ensemble models
 - Weather-aware congestion prediction
 - Peak hour traffic forecasting
-
-### 🗺️ Intelligent Route Optimization
-- Multi-factor route optimization (time, distance, fuel efficiency)
-- Dynamic rerouting based on real-time conditions
-- Dijkstra's algorithm + A* pathfinding
 
 ### 💬 Natural Language Interface
 - Conversational AI powered by IBM Granite LLM
@@ -147,5 +137,11 @@ Our system consists of three specialized AI agents:
 │  -  Traffic Management   │
 └─────────────────────────┘
 ```
+
+
+<img width="1103" height="742" alt="image" src="https://github.com/user-attachments/assets/32d6f44f-caab-4fef-85e0-a781d4999656" />
+<img width="1674" height="764" alt="image" src="https://github.com/user-attachments/assets/39563027-7239-4bf9-94a1-00155fc84441" />
+<img width="1735" height="758" alt="image" src="https://github.com/user-attachments/assets/63894e69-791c-4ed7-8fdf-ea8d528376c3" />
+
 
 **Team Name:** VisionX
